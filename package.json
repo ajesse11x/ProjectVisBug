@@ -22,7 +22,7 @@
   "license": "ISC",
   "dependencies": {
     "@ctrl/tinycolor": "^2.0.0",
-    "blingblingjs": "^2.0.2",
+    "blingblingjs": "^2.1.0",
     "hotkeys-js": "^3.3.5",
     "ragrid": "^1.0.5"
   },
